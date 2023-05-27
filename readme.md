@@ -1,1 +1,1 @@
-### Newsletter Signup Website using ExpressJS `Practice Project`
+### Newsletter Signup website using ExpressJS `Practice Project`
